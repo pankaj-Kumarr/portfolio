@@ -345,7 +345,7 @@ html{
 }
 
 body{
-    background-color: #C4C1E0;
+    background-color: #D1D9D9;
 
 }
 nav{
@@ -386,7 +386,7 @@ main{
   text-align: left;
   padding: 2rem 1rem;
   color: rgba(255,255,255,);
-  background-color: #7C73E6;
+  background-color: #049b9b;
   
     /* margin-top: 15px;
     margin-left: 50%;
@@ -569,7 +569,7 @@ thead, tfoot{
 }
 
 .google a{
-  color: #fff;
+  color: red;
   text-decoration: none;
 }
 
@@ -577,7 +577,7 @@ thead, tfoot{
   text-decoration: underline;
 }
 
-@viewport{
+/* @viewport{
   zoom: 1.0;
   width: extend-to-zoom;
 }
@@ -585,4 +585,4 @@ thead, tfoot{
 @-ms-viewport{
   width: extend-to-zoom;
   zoom: 1.0;
-}
+} */
